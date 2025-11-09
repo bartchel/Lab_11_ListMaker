@@ -252,6 +252,7 @@ public class SafeInput
 
         for (int i = 0; i < WIDTH; i++) System.out.print("*");
         System.out.println();
+        System.out.println(); //Testing commit
     }
 
 }
